@@ -3,7 +3,7 @@
 # 🛡️ Sentinel AI — Continuous Audit Intelligence
 
 > **From 100% of transactions to a small, explainable, evidence-backed investigation queue.**
-
+ 
 Sentinel AI is an **AI-assisted continuous-audit intelligence platform** designed to help auditors and financial-risk teams identify, prioritize, investigate, and document suspicious transaction activity.
 
 Instead of stopping at an anomaly or fraud score, Sentinel AI connects the complete investigation workflow:
